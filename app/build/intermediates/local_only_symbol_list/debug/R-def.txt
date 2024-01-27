@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+anim rcy_anim
+color black
+color white
+drawable a
+drawable baseline_add_24
+drawable baseline_delete_24
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id LinearLayoutRow
+id btnAction
+id btnOpenDialog
+id edtName
+id edtNumber
+id imgContact
+id recyclerContact
+id txtName
+id txtNumber
+id txtTitle
+layout activity_main
+layout add_update_lay
+layout contact_row
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string contact
+string contactNumber
+style Base.Theme.RecyclerView
+style Theme.RecyclerView
+xml backup_rules
+xml data_extraction_rules

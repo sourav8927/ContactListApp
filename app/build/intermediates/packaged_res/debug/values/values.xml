@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Recycler View</string>
+    <string name="contact">Contact</string>
+    <string name="contactNumber">Contact Number</string>
+    <style name="Base.Theme.RecyclerView" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.RecyclerView" parent="Base.Theme.RecyclerView"/>
+</resources>
